@@ -5,7 +5,6 @@ It allows users to search a city and the program outputs the
 city's temperature, humidity, and wind speeds.
 
 ## Technologies
-JavaScript   
 HTML  
 CSS  
 Open Weather Map API  
